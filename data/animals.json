@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Janet",
+      "species": "monkey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
